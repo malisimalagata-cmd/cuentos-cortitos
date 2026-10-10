@@ -2,7 +2,7 @@
 window.PACK_CUENTOS = [
  {
   "id": "pack-01",
-  "img": "./img/cuento-01.jpg",
+  "img": "./cuento-01.jpg",
   "title": {
    "es": "La estrella que no quería brillar",
    "en": "The star who did not want to shine"
@@ -36,7 +36,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-02",
-  "img": "./img/cuento-02.jpg",
+  "img": "./cuento-02.jpg",
   "title": {
    "es": "El dragón que tenía miedo al fuego",
    "en": "The dragon who was afraid of fire"
@@ -74,7 +74,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-03",
-  "img": "./img/cuento-03.jpg",
+  "img": "./cuento-03.jpg",
   "title": {
    "es": "Lupe y el paraguas mágico",
    "en": "Lupe and the magic umbrella"
@@ -108,7 +108,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-04",
-  "img": "./img/cuento-04.jpg",
+  "img": "./cuento-04.jpg",
   "title": {
    "es": "El gato que perdió su maullido",
    "en": "The cat who lost his meow"
@@ -146,7 +146,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-05",
-  "img": "./img/cuento-05.jpg",
+  "img": "./cuento-05.jpg",
   "title": {
    "es": "La nube Nina",
    "en": "Nina the cloud"
@@ -184,7 +184,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-06",
-  "img": "./img/cuento-06.jpg",
+  "img": "./cuento-06.jpg",
   "title": {
    "es": "El robot que quería dormir",
    "en": "The robot who wanted to sleep"
@@ -222,7 +222,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-07",
-  "img": "./img/cuento-07.jpg",
+  "img": "./cuento-07.jpg",
   "title": {
    "es": "Tomás y la puerta del árbol",
    "en": "Tomás and the door in the tree"
@@ -260,7 +260,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-08",
-  "img": "./img/cuento-08.jpg",
+  "img": "./cuento-08.jpg",
   "title": {
    "es": "La tortuga con prisa",
    "en": "The turtle in a hurry"
@@ -298,7 +298,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-09",
-  "img": "./img/cuento-09.jpg",
+  "img": "./cuento-09.jpg",
   "title": {
    "es": "El helado que no se derretía",
    "en": "The ice cream that did not melt"
@@ -332,7 +332,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-10",
-  "img": "./img/cuento-10.jpg",
+  "img": "./cuento-10.jpg",
   "title": {
    "es": "La sirena sin voz",
    "en": "The mermaid with no voice"
@@ -370,7 +370,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-11",
-  "img": "./img/cuento-11.jpg",
+  "img": "./cuento-11.jpg",
   "title": {
    "es": "El zorro y la luna de queso",
    "en": "The fox and the cheese moon"
@@ -408,7 +408,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-12",
-  "img": "./img/cuento-12.jpg",
+  "img": "./cuento-12.jpg",
   "title": {
    "es": "Pablo y el monstruo del armario",
    "en": "Pablo and the monster in the wardrobe"
@@ -446,7 +446,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-13",
-  "img": "./img/cuento-13.jpg",
+  "img": "./cuento-13.jpg",
   "title": {
    "es": "La hormiga que quería volar",
    "en": "The ant who wanted to fly"
@@ -488,7 +488,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-14",
-  "img": "./img/cuento-14.jpg",
+  "img": "./cuento-14.jpg",
   "title": {
    "es": "El pirata Pepino y el mapa borrado",
    "en": "Pirate Pepino and the erased map"
@@ -526,7 +526,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-15",
-  "img": "./img/cuento-15.jpg",
+  "img": "./cuento-15.jpg",
   "title": {
    "es": "Una mochila llena de secretos",
    "en": "A backpack full of secrets"
@@ -564,7 +564,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-16",
-  "img": "./img/cuento-16.jpg",
+  "img": "./cuento-16.jpg",
   "title": {
    "es": "El osito que no quería compartir",
    "en": "The little bear who did not want to share"
@@ -606,7 +606,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-17",
-  "img": "./img/cuento-17.jpg",
+  "img": "./cuento-17.jpg",
   "title": {
    "es": "La bruja Rita y la poción de risas",
    "en": "Witch Rita and the laughter potion"
@@ -644,7 +644,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-18",
-  "img": "./img/cuento-18.jpg",
+  "img": "./cuento-18.jpg",
   "title": {
    "es": "El pez dorado del estanque",
    "en": "The golden fish in the pond"
@@ -682,7 +682,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-19",
-  "img": "./img/cuento-19.jpg",
+  "img": "./cuento-19.jpg",
   "title": {
    "es": "La bicicleta que hablaba",
    "en": "The bicycle that talked"
@@ -720,7 +720,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-20",
-  "img": "./img/cuento-20.jpg",
+  "img": "./cuento-20.jpg",
   "title": {
    "es": "Dos calcetines distintos",
    "en": "Two different socks"
@@ -762,7 +762,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-21",
-  "img": "./img/cuento-21.jpg",
+  "img": "./cuento-21.jpg",
   "title": {
    "es": "El fantasma tímido",
    "en": "The shy ghost"
@@ -804,7 +804,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-22",
-  "img": "./img/cuento-22.jpg",
+  "img": "./cuento-22.jpg",
   "title": {
    "es": "Clara y el jardín dormido",
    "en": "Clara and the sleeping garden"
@@ -846,7 +846,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-23",
-  "img": "./img/cuento-23.jpg",
+  "img": "./cuento-23.jpg",
   "title": {
    "es": "El lobo que quería ser amigo",
    "en": "The wolf who wanted to be a friend"
@@ -888,7 +888,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-24",
-  "img": "./img/cuento-24.jpg",
+  "img": "./cuento-24.jpg",
   "title": {
    "es": "El viaje de la gota Gotita",
    "en": "The journey of Gotita the droplet"
@@ -926,7 +926,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-25",
-  "img": "./img/cuento-25.jpg",
+  "img": "./cuento-25.jpg",
   "title": {
    "es": "El pequeño faro",
    "en": "The little lighthouse"
@@ -964,7 +964,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-26",
-  "img": "./img/cuento-26.jpg",
+  "img": "./cuento-26.jpg",
   "title": {
    "es": "El payaso triste",
    "en": "The sad clown"
@@ -1002,7 +1002,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-27",
-  "img": "./img/cuento-27.jpg",
+  "img": "./cuento-27.jpg",
   "title": {
    "es": "La biblioteca de los sueños",
    "en": "The library of dreams"
@@ -1044,7 +1044,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-28",
-  "img": "./img/cuento-28.jpg",
+  "img": "./cuento-28.jpg",
   "title": {
    "es": "Mateo y el tren de medianoche",
    "en": "Mateo and the midnight train"
@@ -1086,7 +1086,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-29",
-  "img": "./img/cuento-29.jpg",
+  "img": "./cuento-29.jpg",
   "title": {
    "es": "La jirafa que no cabía",
    "en": "The giraffe who did not fit"
@@ -1128,7 +1128,7 @@ window.PACK_CUENTOS = [
  },
  {
   "id": "pack-30",
-  "img": "./img/cuento-30.jpg",
+  "img": "./cuento-30.jpg",
   "title": {
    "es": "El regalo más grande",
    "en": "The biggest gift"
