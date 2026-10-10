@@ -1,0 +1,2 @@
+# ads.txt - Cuentos Cortitos
+# Si HilltopAds te da una linea para ads.txt, pegala aqui abajo (sin el #)
