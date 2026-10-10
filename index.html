@@ -99,6 +99,7 @@
 <div class="wrap" id="app"></div>
 <script src="./ads-config.js"></script>
 <script src="./cuentos-data.js"></script>
+<script src="./cuentos-images.js"></script>
 <script>
 /* ============================================================
    CUENTOS CORTITOS  -  biblioteca bilingue
@@ -408,10 +409,18 @@ let speaking = false;
 let deferredPrompt = null;
 const app = document.getElementById("app");
 
+/* Resuelve la imagen de un cuento: usa el paquete base64 si esta cargado
+   (./cuentos-images.js) y, si no, cae al archivo suelto (./cuento-XX.jpg). */
+function imgSrc(p) {
+  if (!p) return p;
+  const key = String(p).split("/").pop();
+  return (window.CUENTOS_IMGS && window.CUENTOS_IMGS[key]) || p;
+}
+
 /* ---------------- Vistas ---------------- */
 function cardHTML(s, i) {
   const media = s.img
-    ? `<img class="thumb-img" src="${s.img}" alt="" loading="lazy" decoding="async">`
+    ? `<img class="thumb-img" src="${imgSrc(s.img)}" alt="" loading="lazy" decoding="async">`
     : s.svg;
   return `<button class="card" data-action="open" data-id="${i}" aria-label="${s.title[lang]}">
     <div class="thumb">${media}</div>
@@ -492,7 +501,7 @@ function storyHTML() {
   const total = pages.length;
   const p = pages[route.page];
   const dots = pages.map((_, i) => `<span class="dot${i === route.page ? " on" : ""}"></span>`).join("");
-  const media = s.img ? `<img class="stage-img" src="${s.img}" alt="">` : s.svg;
+  const media = s.img ? `<img class="stage-img" src="${imgSrc(s.img)}" alt="">` : s.svg;
   const body = p.moral
     ? `<div class="moral"><div class="label">${lang === "es" ? "Moraleja" : "Moral"}</div><div class="txt">${p[lang]}</div></div>`
     : `<p class="page-text">${p[lang]}</p>`;
